@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Illuminate\Database\Eloquent\Model.belongsTo(related,foreignKey,otherKey,relation)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

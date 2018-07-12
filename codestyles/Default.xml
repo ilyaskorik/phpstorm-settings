@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="240" />
+  <option name="RIGHT_MARGIN" value="260" />
   <HTMLCodeStyleSettings>
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
@@ -28,7 +28,7 @@
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="240" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
